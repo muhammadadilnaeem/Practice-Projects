@@ -8,7 +8,7 @@ Hi, I'm Muhammad Adil Naeem, a passionate Machine Learning enthusiast. I have a 
 
 In this repository, you will find a collection of projects that I have worked on. Each project is a testament to my dedication and enthusiasm for machine learning and NLP. Here are a few highlights:
 
-1. **[Project 1: Exploratory Data Analysis App]**
+1. **Project 1: Exploratory Data Analysis App**
    - **Description:** A brief description of the project.
    - **Technologies Used:** List of technologies and tools used in this project are [Streamlit, numpy, pandas,ydata_profiling].
 
