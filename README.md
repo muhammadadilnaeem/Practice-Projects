@@ -11,7 +11,6 @@ In this repository, you will find a collection of projects that I have worked on
 1. **[Project 1: Exploratory Data Analysis App]**
    - **Description:** A brief description of the project.
    - **Technologies Used:** List of technologies and tools used in this project are [Streamlit, numpy, pandas,ydata_profiling].
-   - **Link:** [Repository/Project Link](URL)
 
 
 
@@ -29,9 +28,9 @@ Here are some of the skills and technologies I have worked with:
 
 Feel free to reach out to me for any collaboration or queries. You can contact me via:
 
-- **Email:** [your.email@example.com](madilnaeem0@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-adil-naeem-26878b2b9/)
-- **GitHub:** [Your GitHub Profile](https://github.com/muhammadadilnaeem)
+- **Email:** [Email](madilnaeem0@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammad-adil-naeem-26878b2b9/)
+- **GitHub:** [GitHub Profile](https://github.com/muhammadadilnaeem)
 
 ## **Acknowledgements**
 
