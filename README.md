@@ -15,19 +15,16 @@ In this repository, you will find a collection of projects that I have worked on
      - Numpy
      - Pandas
      - ydata_profiling
-2. # **Project 2: Word Cloud Generator App**
+2. **Project 2: Word Cloud Generator App**
 
-## **Description**
-This project allows users to upload text files (PDF, DOCX, or TXT) and generate customizable word clouds based on the text content. Users can also download the generated word cloud images in various formats and view a word count table for further analysis.
+**Description**: This project allows users to upload text files (PDF, DOCX, or TXT) and generate customizable word clouds based on the text content. Users can also download the generated word cloud images in various formats and view a word count table for further analysis.
 
-## **Technologies Used**
-List of technologies and tools used in this project are:
-- Streamlit
-- Python-docx
-- PyMuPDF
-- NLTK
-- WordCloud
-
+- **Technologies Used** : List of technologies and tools used in this project are:
+   - Streamlit
+   - Python-docx
+   - PyPDF2
+   - matplotlib
+   - WordCloud
 
 ## **Skills**
 
