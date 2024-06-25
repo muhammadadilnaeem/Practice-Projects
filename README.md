@@ -10,7 +10,7 @@ In this repository, you will find a collection of projects that I have worked on
 
 1. **Project 1: Exploratory Data Analysis App**
    - **Description:** This project takes a dataset and perform Exploratory data analysis and Generate the report of analysis.
-   - **Technologies Used:** List of technologies and tools used in this project are 
+   - **Technologies Used:** List of technologies and tools used in this project are:
      - Streamlit
      - Numpy
      - Pandas
