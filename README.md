@@ -44,7 +44,7 @@ You can view the full project files [here](https://github.com/muhammadadilnaeem/
   - HTML/CSS
   - SQLAlchemy
 
-**Code Link**: You can view the full project files [here] (https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/SQL%20Query%20App).
+**Code Link**: You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/SQL%20Query%20App).
 
 
 ## **Project 4: Query Application**
