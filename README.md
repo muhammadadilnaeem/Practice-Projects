@@ -33,6 +33,20 @@ You can view the full project files [here](https://github.com/muhammadadilnaeem/
 **Code Link**
 You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/WordCloud%20Generater%20App).
 
+## **Project 3: Dramatic SQL Query Interface with Flask, OpenAI, and LangChain**
+
+- **Description**: This project implements a web-based SQL query interface using Flask, integrating with OpenAI's language model and LangChain for handling SQL queries and database interactions. Users can enter their database credentials and SQL queries to receive responses formatted in a striking and emphatic manner.
+
+- **Technologies Used**:
+  - Flask
+  - OpenAI API
+  - LangChain
+  - HTML/CSS
+  - SQLAlchemy
+
+**Code Link**: You can view the full project files [here] ((https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/SQL%20Query%20App)).
+
+
 ## **Project 4: Query Application**
 
 Description: This project is a Flask web application that allows users to ask questions and get answers using a Retrieval-Augmented Generation (RAG) model. Users input their questions, and the application returns relevant answers based on the indexed documents.
