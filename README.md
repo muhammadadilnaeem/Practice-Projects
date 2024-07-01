@@ -8,7 +8,7 @@ Hi, I'm Muhammad Adil Naeem, a passionate Machine Learning enthusiast. I have a 
 
 In this repository, you will find a collection of projects that I have worked on. Each project is a testament to my dedication and enthusiasm for machine learning and NLP. Here are a few highlights:
 
-1. **Project 1: Exploratory Data Analysis App**
+## **Project 1: Exploratory Data Analysis App**
    - **Description:** This project takes a dataset and perform Exploratory data analysis and Generate the report of analysis.
    - **Technologies Used:** List of technologies and tools used in this project are:
      - Streamlit
@@ -19,7 +19,7 @@ In this repository, you will find a collection of projects that I have worked on
 **Code Link**
 You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/Exploratory%20Data%20Analysis%20App).
 
-1. **Project 2: Word Cloud Generator App**
+## **Project 2: Word Cloud Generator App**
 
    - **Description**: This project allows users to upload text files (PDF, DOCX, or TXT) and generate customizable word clouds based on the text content. Users can also download the generated word cloud images in various formats and view a word count table for further analysis.
    
