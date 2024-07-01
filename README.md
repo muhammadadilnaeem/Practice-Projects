@@ -15,6 +15,10 @@ In this repository, you will find a collection of projects that I have worked on
      - Numpy
      - Pandas
      - ydata_profiling
+  
+## **Code Link**
+You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/Exploratory%20Data%20Analysis%20App).
+
 2. **Project 2: Word Cloud Generator App**
 
    - **Description**: This project allows users to upload text files (PDF, DOCX, or TXT) and generate customizable word clouds based on the text content. Users can also download the generated word cloud images in various formats and view a word count table for further analysis.
@@ -25,6 +29,29 @@ In this repository, you will find a collection of projects that I have worked on
       - PyPDF2
       - matplotlib
       - WordCloud
+  
+## **Code Link**
+You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/WordCloud%20Generater%20App).
+
+## **Project 4: Query Application**
+
+Description: This project is a Flask web application that allows users to ask questions and get answers using a Retrieval-Augmented Generation (RAG) model. Users input their questions, and the application returns relevant answers based on the indexed documents.
+
+### **Technologies Used**
+
+- Flask
+- HTML
+- CSS
+- Python (OpenAI API, llama_index)
+- VectorStoreIndex
+- SimpleDirectoryReader
+- StorageContext
+- load_index_from_storage
+
+## **Code Link**
+You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects.git).
+
+
 
 ## **Skills**
 
