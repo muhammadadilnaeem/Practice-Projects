@@ -63,7 +63,7 @@ Description: This project is a Flask web application that allows users to ask qu
 - load_index_from_storage
 
 **Code Link**
-You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects.git).
+You can view the full project files [here](https://github.com/muhammadadilnaeem/Practice-Projects/tree/main/Query%20Application).
 
 
 ## **Skills**
