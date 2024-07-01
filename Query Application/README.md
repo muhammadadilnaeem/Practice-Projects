@@ -11,6 +11,8 @@ The Query Application allows users to input questions and receive answers based 
 
 ## **How to Use the App**
 
+https://github.com/muhammadadilnaeem/Practice-Projects/assets/162784706/474c9b69-8bd8-4f3c-9272-69708cdb6e81
+
 ### **Home Page**
 #### **Enter a Question**
 1. **Input Field**: Users can type their question into the input field labeled "Enter your question".
